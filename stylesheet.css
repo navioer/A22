@@ -45,7 +45,7 @@ body {
   .gb-link:hover::after {
     content: "";
     display: block;
-    border-bottom: 3px solid #202040;
+    border-bottom: 3px solid #FB8F1D;
     width: 70%;
     margin: auto;
     padding-bottom: 5px;
